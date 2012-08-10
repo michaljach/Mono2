@@ -12,7 +12,8 @@ Now You must activate the theme in Sublime Text 2:
 
 4. Open your User Settings Preferences file `Sublime Text 2 -> Preferences -> Settings - User`
 5. Add line `"theme": "Mono2.sublime-theme"` to the file
-Example:
-`{
+
+##Example:
+{
     "theme": "Mono2.sublime-theme"
-}`
+}
