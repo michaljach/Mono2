@@ -16,6 +16,6 @@ Now You must activate the theme in Sublime Text 2:
 5. Add line `"theme": "Mono2.sublime-theme"` to the file
 
 *Example:
-{
-    "theme": "Mono2.sublime-theme"
-}
+	{
+    	"theme": "Mono2.sublime-theme"
+	}
