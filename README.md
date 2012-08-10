@@ -25,4 +25,4 @@ Example:
 	}
 
 ## LICENSE
-[http://creativecommons.org/licenses/by-sa/3.0/](Creative Commons Attribution-ShareAlike 3.0 License). You are free to share and remix the theme.
+[Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/). You are free to share and remix the theme.
