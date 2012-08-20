@@ -24,7 +24,5 @@ Example:
     	"theme": "Mono2.sublime-theme"
 	}
 
-## RECOMMENDED
-I recommend using Color Theme `MonoNight`. You can get it [HERE](https://github.com/michaljach/MonoNight)
 ## LICENSE
 [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/). You are free to share and remix the theme.

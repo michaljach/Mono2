@@ -194,14 +194,14 @@
         "class": "tab_label",
         "fade": true,
         "fg": [50, 50, 50],
-        "shadow_color": [235, 235, 235],
+        "shadow_color": [255, 255, 255],
         "shadow_offset": [0, 1]
     },
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control", "attributes": ["hover"]}],
         "fg": [25, 25, 25],
-        "shadow_color": [245, 245, 245]
+        "shadow_color": [255, 255, 255]
     },
     {
         "class": "tab_label",
@@ -442,7 +442,7 @@
         "class": "label_control",
         "parents": [{"class": "status_bar"}],
         "color": [47, 47, 47],
-        "shadow_color": [220, 220, 220],
+        "shadow_color": [255, 255, 255],
         "shadow_offset": [0, 1]
     },
 
@@ -646,7 +646,7 @@
         "layer0.texture": "Theme - Mono2/Mono2/text-field.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [4, 5, 4, 3],
-        "content_margin": [3, 3]
+        "content_margin": [4, 4]
     },
 
 //
